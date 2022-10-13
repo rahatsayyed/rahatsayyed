@@ -2,6 +2,9 @@
 <div align="center">
 <img src="01.png" >
 </div>
+</body>
+
+.
 <div align="center">
 <a href="https://rahatsayyed.netlify.app/" rel="nofollow"><img src="https://img.shields.io/badge/-website-brightgreen" alt="website" style="max-width: 100%;"></a>
 <a href="https://twitter.com/intent/follow?screen_name=youreachedrahat" rel="nofollow"><img src="https://img.shields.io/badge/-follow-white?logo=twitter&logoColor=blue&color=ffffff" alt="Twitter Follow" data-canonical-src="https://img.shields.io/twitter/follow/youreachedrahat?label=Follow" style="max-width: 100%;"></a>
@@ -10,11 +13,12 @@
 <a href="mailto:sayyedrahat721@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" alt="email" style="max-width: 100%;"></a>
 </div>
 
-</body>
 
-- 👋 Hi, I’m @youreachedrahat
+
+- 👋 Hi, I’m Rahat Sayyed
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Blockchain Technology
+- 💞️ I’m looking to collaborate on web dev or blockchain project 
+- 📫 How to reach me <a href="mailto:sayyedrahat721@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" alt="email" style="max-width: 100%;"></a>
+
 
