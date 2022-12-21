@@ -61,11 +61,11 @@ alt="website" style="max-width: 100%;"></a>
 
 # 📊 GitHub Stats:
 <div align="center">
-<span style="height:200px;width:50%;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youreachedrahat&theme=highcontrast&hide_border=false" />
+<span >
+<img style="height:150px;" src="https://github-readme-streak-stats.herokuapp.com/?user=youreachedrahat&theme=highcontrast&hide_border=false" />
 </span>
-<span>
-<img style="height:200px;width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youreachedrahat&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<span >
+<img  style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youreachedrahat&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </span>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=youreachedrahat&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" /> -->
  </div>
