@@ -65,7 +65,7 @@ alt="website" style="max-width: 100%;"></a>
 <img style="height:150px;" src="https://github-readme-streak-stats.herokuapp.com/?user=youreachedrahat&theme=highcontrast&hide_border=false" />
 </span>
 <span >
-<img  style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youreachedrahat&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img  style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youreachedrahat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </span>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=youreachedrahat&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" /> -->
  </div>
