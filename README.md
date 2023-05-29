@@ -1,10 +1,12 @@
+
+
 <body style="background-color:#171515;">
 <div align="center">
-  <a href="https://rahatsayyed.netlify.app/"> <img src="01.png" ></a>
+  <a href="https://rahatsayyed.netlify.app/"> <img src="https://github.com/youreachedrahat/youreachedrahat/assets/70068895/e2be669c-557a-4386-8f04-a20bba56bc3b" ></a>
 </div>
 </body>
-.
 
+<br>
 
 
 <div align="center">
@@ -18,11 +20,9 @@ alt="website" style="max-width: 100%;"></a>
 <a href="https://instagram.com/iamroughlycalledrahat" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram: Rahat" style="max-width: 100%;"></a>
 <a href="mailto:sayyedrahat721@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" alt="email" style="max-width: 100%;"></a> 
  <a>
-<img src="https://visitcount.itsvg.in/api?id=youreachedrahat&label=&color=0&icon=5&pretty=true"/>
+<img src="https://visitcount.itsvg.in/api?id=youreachedrahat&color=0&icon=5&pretty=true"/>
 </a>
 </div>
-
-
 
 
 
@@ -41,23 +41,28 @@ alt="website" style="max-width: 100%;"></a>
 
 
 # 💻 Tech Stack:
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) 
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -73,4 +78,8 @@ alt="website" style="max-width: 100%;"></a>
 
 
 
+---
 
+
+
+<!-- https://gprm.itsvg.in/ -->
