@@ -17,7 +17,7 @@ alt="website" style="max-width: 100%;"></a>
 <a href="https://discord.com/users/665380296082063371" rel="nofollow"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord: Rahat" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/youreachedrahat/" rel="nofollow"><img src="https://img.shields.io/badge/-Rahat-blue?logo=linkedin" alt="Linkedin: Rahat" data-canonical-src="https://img.shields.io/badge/-Rahat-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/youreachedrahat/" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/youreachedrahat"><img src="https://img.shields.io/badge/-follow-white?logo=github&logoColor=black&color=ffffff" alt="GitHub followers" data-canonical-src="https://img.shields.io/github/followers/youreachedrahat?label=Follow&amp;style=social" style="max-width: 100%;"></a>
-<a href="https://instagram.com/iamroughlycalledrahat" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram: Rahat" style="max-width: 100%;"></a>
+<a href="https://instagram.com/i.rahxt" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram: Rahat" style="max-width: 100%;"></a>
 <a href="mailto:sayyedrahat721@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" alt="email" style="max-width: 100%;"></a> 
  <a>
 <img src="https://visitcount.itsvg.in/api?id=youreachedrahat&color=0&icon=5&pretty=true"/>
